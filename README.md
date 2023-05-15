@@ -8,6 +8,6 @@ Then run:
 ```
 python3 manage.py makemigrations
 python3 manage.py migrate
-python 3 manage.py runserver
+python3 manage.py runserver
 ```
 
