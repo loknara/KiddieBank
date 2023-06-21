@@ -1,5 +1,5 @@
 # KiddieBank
-Made for PNC's Hackathon 
+
 
 # To Run Program
 Install all dependencies in a virtual enviornment
